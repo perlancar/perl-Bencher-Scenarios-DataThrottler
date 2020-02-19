@@ -38,4 +38,8 @@ our $scenario = {
 1;
 # ABSTRACT:
 
+=head1 BENCHMARK NOTES
+
+This does not look right; nof_buckets does not have effect?
+
 =head1 SEE ALSO
